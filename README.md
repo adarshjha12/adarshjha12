@@ -7,7 +7,7 @@ i am adarsh
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...full stack web development
-- 🌱 I’m currently learning ...javascript and node js
+- 🌱 I’m currently learning ... backend development
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
