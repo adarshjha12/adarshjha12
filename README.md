@@ -1,4 +1,4 @@
-# Hi there, I'm Adarsh Jha 👋
+# "Welcome to My GitHub Profile! I'm Adarsh Jha "
 
 I'm an aspiring **Full-Stack Web Developer** with a passion for building modern web applications. I specialize in both **backend** and **frontend** development, focusing on clean, efficient code and creating a seamless user experience. 
 
