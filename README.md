@@ -7,7 +7,7 @@ i have already learnt technologies like html, css, javascript, reactjs, nodejs, 
 <br/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLkVVZFiwIEqwzm1SXhP7N7_dfIGchUww0w&s" alt="Example Image" height='100' width="150">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJcB4K9EY3wAmEOtTjoJlVZ6xCaEOnc05saQ&s" alt="Example Image" height='100' width="150">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQ6ZmsiCzSC16bStr1KjZNcIBW5hAMa1ek6xoNeSSw5wQouq_N7dQCxlxI02TIeZk1e0&usqp=CAU" alt="Example Image" height='100' width="150">
+<img src="https://datapro.in/uploads/89eb94efd5a4418bcbd9db16f8e1977f.png" alt="Example Image" height='100' width="150">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tK1C7VhYrBF3Ao151YEGWZNIl_eU0GRGKw&s" alt="Example Image" height='100' width="150">
 <br/>
 i consistently work on complex daily life problems to find great, affordable and scalable solutions.
