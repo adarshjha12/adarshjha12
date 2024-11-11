@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi there, I'm Adarsh Jha 👋
 
-i am adarsh
-- 🌱 I’m currently making backend projects.
-  
-i have already learnt technologies like html, css, javascript, reactjs, nodejs, mongodb, mongoose, express, ngork, https, postman, git, docker, redis etc.
+I'm an aspiring **Full-Stack Web Developer** with a passion for building modern web applications. I specialize in both **backend** and **frontend** development, focusing on clean, efficient code and creating a seamless user experience. 
+
+I enjoy solving complex problems and constantly improving my skills through hands-on projects and continuous learning.
+
+## 🚀 Technologies & Tools
 
 <div>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLkVVZFiwIEqwzm1SXhP7N7_dfIGchUww0w&s" alt="Example Image" height='100' width="150">
@@ -13,16 +14,44 @@ i have already learnt technologies like html, css, javascript, reactjs, nodejs, 
 
 </div>
 
-i consistently work on complex daily life problems to find great, affordable and scalable solutions.
-<!--
-**adarshjha12/adarshjha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend:
+- **HTML, CSS, JavaScript**
+- **React, Redux**
+- **Tailwind CSS, Bootstrap**
 
-Here are some ideas to get you started:
+### Backend:
+- **Node.js, Express.js**
+- **MongoDB, Mongoose**
+- **JWT (JSON Web Tokens)**
 
-- 🌱 I’m currently learning ... backend development
+### Tools:
+- **Git & GitHub**
+- **Postman**
+- **Visual Studio Code**
+- **Docker (for containerization)**
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+
+### 📂 [Portfolio Website](https://github.com/adarshjha/portfolio)
+My personal portfolio showcasing my skills, experience, and projects.
+
+### 🛍️ [Order Management System](https://github.com/adarshjha/order-management-system)
+A comprehensive order management system for eCommerce platforms built using **Node.js**, **Express**, and **MongoDB**.
+
+### 📝 [Advanced To-Do List](https://github.com/adarshjha/todo-app)
+A to-do list web application with advanced features like task prioritization, categorization, and persistent data storage.
+
+## 🔭 Currently Working On:
+- A full-stack application using **React** and **Node.js**
+- Exploring cloud computing and integrating APIs into web apps
+
+## 🌱 Learning:
+- **Cloud Computing** & **DevOps**
+- Advanced **React** features like **React Hooks** and **Context API**
+
+## 📫 How to Reach Me:
+- Email: [adarshjha@example.com](mailto:jhaa50872@gmail.com)
+- LinkedIn: [Adarsh Jha](https://www.linkedin.com/in/adarsh-jha1/)
+
+Feel free to check out my repositories and collaborate on exciting projects! 🚀
+
