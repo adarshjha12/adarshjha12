@@ -50,7 +50,7 @@ A to-do list web application with advanced features like task prioritization, ca
 - Advanced **React** features like **React Hooks** and **Context API**
 
 ## 📫 How to Reach Me:
-- Email: [adarshjha@example.com](mailto:jhaa50872@gmail.com)
+- Email: [jhaa50872@gmail.com(mailto:jhaa50872@gmail.com)
 - LinkedIn: [Adarsh Jha](https://www.linkedin.com/in/adarsh-jha1/)
 
 Feel free to check out my repositories and collaborate on exciting projects! 🚀
