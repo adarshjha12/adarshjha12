@@ -7,7 +7,7 @@ I enjoy solving complex problems and constantly improving my skills through hand
 ## 🚀 Technologies & Tools
 
 <div>
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fnaturaily.com%2Fblog%2Fnextjs-benefits&psig=AOvVaw1lGbTTpFVkUNj52LoElPSX&ust=1749493422440000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiBjZC54o0DFQAAAAAdAAAAABAK](https://miro.medium.com/v2/resize:fit:2000/0*exXLyexwiMZ7Nwsg.png)" alt="Example Image" height='100' width="150">
+  <img src="https://miro.medium.com/v2/resize:fit:2000/0*exXLyexwiMZ7Nwsg.png" alt="Example Image" height='100' width="150">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLkVVZFiwIEqwzm1SXhP7N7_dfIGchUww0w&s" alt="Example Image" height='100' width="150">
