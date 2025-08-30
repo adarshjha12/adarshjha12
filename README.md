@@ -25,8 +25,8 @@ I enjoy solving complex problems and constantly improving my skills through hand
 </div>
 
 ### Frontend:
-- **HTML, CSS, JavaScript**
-- **React, Nextjs, Redux**
+- **HTML, CSS, JavaScript, Typescript**
+- **React, React Native, Nextjs, Redux**
 - **Tailwind CSS, Bootstrap**
 
 ### Backend:
