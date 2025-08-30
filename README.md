@@ -1,4 +1,4 @@
-# "Building IGotMessage. JhaFusionLLC"
+# "Building IGotMessage - a next gen ai powered social media app"
 repo link- https://github.com/adarshjha12/igotmessage-app
 
 web app link- https://igotmessage-app-frontend.vercel.app/
