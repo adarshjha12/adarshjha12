@@ -52,9 +52,8 @@ I enjoy solving complex problems and constantly improving my skills through hand
 
 <img src="https://igotmessage-app-frontend.vercel.app/screenshots/home1.png" width="900" alt="IGotMessage Preview" /> </div>
 
-<br>
-📱 What is IGotMessage?
-<br>
+
+### What is IGotMessage?
 
 IGotMessage is a full-stack, cross-platform social media application built under my startup DevFoxLite, where I am the Founder, CEO & Lead Developer 😎.
 
