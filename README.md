@@ -40,12 +40,50 @@ I enjoy solving complex problems and constantly improving my skills through hand
 - **Visual Studio Code**
 - **Docker (for containerization)**
 
-## 💻 Projects
+🚀 Featured Project: IGotMessage – A Modern, AI powered Social Media App
+<div align="center">
+🌐 Live Demo:
 
-### i have made many small to medium project like calculators, to dos, bmi calculator, number guessing game etc. but now its time to level up. so that's why building my own Social Media App **IGotMessage** under my own company **JhaFusion LLC**, i am the ceo, founder, manager everything here🤣.
+👉 https://igotmessage.vercel.app
+ (replace with your actual link)
 
-## 🔭 Currently Working On:
-- IGotMessage the social media app under JhaFusion LLC
+<br>
+🖼️ Preview
+<img src="./frontend/public/screenshots/home1.png" width="900" alt="IGotMessage Preview" /> </div>
+📱 What is IGotMessage?
+
+IGotMessage is a full-stack, cross-platform social media application built under my startup DevFoxLite, where I am the Founder, CEO & Lead Developer 😎.
+I'm building this app from scratch, focusing on real-world scalability, performance, and modern social features such as:
+
+🔥 Core Features
+📸 Stories with music, templates, backgrounds
+🎥 Reels with smooth vertical feed
+💬 Chats & Real-time Messaging
+📞 Video Calls (in progress)
+👤 User Profiles with posts, media & activity
+🤖 AI Chat powered by Mistral/OpenAI
+🛠 Story & Post Templates
+📲 Push Notifications (coming soon)
+🔐 Auth system with full security
+🧾 Error Handling & Auto Retry
+💎 Paid Verification & Rewards System
+💰 Crypto/token-based incentives
+🎯 Ad-sponsored reward system
+
+🧩 Tech Stack
+
+Frontend: React, Next.js, Tailwind, Zustand/Redux
+Mobile: React Native (for cross-platform version)
+Backend: Express.js, MongoDB, Firebase, WebSockets
+DevOps: CI/CD, secure APIs, scalable architecture
+AI: Mistral AI, future full AI content generation
+
+🔭 Currently Working On
+
+Expanding the IGotMessage ecosystem
+Native-camera-powered story creation
+Ultra-smooth story viewer & chat experience
+Scaling backend for real-world user load
 
 ## 🌱 Learning:
 - **graphql, react native**
