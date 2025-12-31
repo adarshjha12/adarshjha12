@@ -55,7 +55,7 @@ I enjoy solving complex problems and constantly improving my skills through hand
 
 ### What is IGotMessage?
 
-IGotMessage is a full-stack, cross-platform social media application built under my startup DevFoxLite, where I am the Founder, CEO & Lead Developer 😎.
+IGotMessage is a full-stack, cross-platform social media application built under my startup Bluearray, where I am the Founder, CEO & Lead Developer 😎.
 
 I'm building this app from scratch, focusing on real-world scalability, performance, and modern social features such as:
 
