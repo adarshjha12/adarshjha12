@@ -40,7 +40,7 @@ I enjoy solving complex problems and constantly improving my skills through hand
 - **Visual Studio Code**
 - **Docker (for containerization)**
 
-🚀 Featured Project: IGotMessage – A Modern Social Media App
+## 🚀 Featured Project: IGotMessage – A Modern Social Media App
 <div align="center">
 🌐 Live Demo:
 
