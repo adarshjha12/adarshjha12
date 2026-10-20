@@ -1,120 +1,59 @@
-# "Building IGotMessage - a next gen ai powered social media app"
-repo link- https://github.com/adarshjha12/igotmessage-app
+# Hey, I'm Adarsh Jha 👋
 
-web app link- https://igotmessage-app-frontend.vercel.app/
+### Full-Stack Software Developer | Backend Engineering Enthusiast
 
-I'm an aspiring **Full-Stack Web Developer** with a passion for building modern web applications. I specialize in both **backend** and **frontend** development, focusing on clean, efficient code and creating a seamless user experience. 
+I'm a **Full-Stack Software Developer at IDSPAY Software and Private Limited**, passionate about building practical applications, solving engineering problems, and understanding how software systems work under the hood.
 
-I enjoy solving complex problems and constantly improving my skills through hands-on projects and continuous learning.
+I have hands-on experience developing web applications across the stack, working with **React.js, JavaScript, Tailwind CSS, Laravel, and SQL**. Alongside my professional work, I'm expanding my backend engineering expertise with **Java, Spring Boot, Spring Security, PostgreSQL, and Hibernate**.
 
-## 🚀 Technologies & Tools
+I enjoy learning by building, exploring how systems work internally, and writing clean, maintainable code. My long-term goal is to become a strong backend engineer and eventually combine that expertise with cloud technologies and agentic AI.
 
-<div>
-  <img src="https://miro.medium.com/v2/resize:fit:2000/0*exXLyexwiMZ7Nwsg.png" alt="Example Image" height='100' width="150">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLkVVZFiwIEqwzm1SXhP7N7_dfIGchUww0w&s" alt="Example Image" height='100' width="150">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJcB4K9EY3wAmEOtTjoJlVZ6xCaEOnc05saQ&s" alt="Example Image" height='100' width="150">
-  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;
-<img src="https://datapro.in/uploads/89eb94efd5a4418bcbd9db16f8e1977f.png" alt="Example Image" height='100' width="150">
-  &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tK1C7VhYrBF3Ao151YEGWZNIl_eU0GRGKw&s" alt="Example Image" height='100' width="150">
+## 🚀 What I'm Focused On
 
-</div>
+- **Full-Stack Development:** Building web applications across frontend and backend
+- **Backend Engineering:** Java, Spring Boot, Spring Security, REST APIs
+- **Database Engineering:** SQL, PostgreSQL, Spring Data JPA, Hibernate
+- **Frontend Development:** React.js, Next.js, TypeScript, Tailwind CSS
+- **Software Engineering Fundamentals:** OOP, DSA, system design, clean code
+- **Cloud & DevOps:** Docker, CI/CD, deployment, and infrastructure fundamentals
+- **Exploring Next:** AI engineering, RAG, and agentic AI systems
 
-### Frontend:
-- **HTML, CSS, JavaScript, Typescript**
-- **React, React Native, Nextjs, Redux**
-- **Tailwind CSS, Bootstrap**
+## 🛠️ Technologies & Tools
 
-### Backend:
-- **Node.js, Express.js**
-- **MongoDB, Postgresql, Mongoose**
-- **JWT (JSON Web Tokens)**
+**Languages:** Java, JavaScript, TypeScript, SQL, PHP
 
-### Tools:
-- **Git & GitHub**
-- **Postman**
-- **Visual Studio Code**
-- **Docker (for containerization)**
+**Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS
 
-## 🚀 Featured Project: IGotMessage – A Modern Social Media App
-<div align="center">
-🌐 Live Demo:
+**Backend:** Laravel, Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Node.js, Express.js, REST APIs
 
-👉 https://igotmessage-app-frontend.vercel.app/
+**Databases:** PostgreSQL, MySQL, MongoDB
 
-<br>
-🖼️ Preview
-<br>
+**Tools & Platforms:** Git, GitHub, IntelliJ IDEA, VS Code, Postman, Docker, Linux
 
-<img src="https://igotmessage-app-frontend.vercel.app/screenshots/home1.png" width="900" alt="IGotMessage Preview" /> </div>
+*Continuously strengthening my skills through professional experience, hands-on projects, and deliberate practice.*
 
+## 💻 Featured Project — IGotMessage
 
-### What is IGotMessage?
+**IGotMessage** is a full-stack social media application I started building to explore modern web development, application architecture, and interactive social features.
 
-IGotMessage is a full-stack, cross-platform social media application built under my startup Bluearray, where I am the Founder, CEO & Lead Developer 😎.
+- User authentication and profile management
+- Social content and interactive features
+- Full-stack application development
+- AI-powered chat exploration
 
-I'm building this app from scratch, focusing on real-world scalability, performance, and modern social features such as:
+🔗 **[View Source Code on GitHub](https://github.com/adarshjha12/igotmessage-app)**
 
-🔥 Core Features
+🌐 **[Explore the Live Application](https://igotmessage-app-frontend.vercel.app/)**
 
-📸 Stories with music, templates, backgrounds
+## 🌱 My Learning Philosophy
 
-🎥 Reels with smooth vertical feed
+I believe the best way to become a better engineer is to build real things, debug difficult problems, and understand the reasoning behind the code.
 
-💬 Chats & Real-time Messaging
+I'm currently focusing on strengthening my backend fundamentals, database design, API security, and software architecture while building on my full-stack development experience. Over time, I aim to combine these skills with cloud engineering and AI-powered systems.
 
-📞 Video Calls (in progress)
+## 📫 Let's Connect
 
-👤 User Profiles with posts, media & activity
+- **Email:** [jhaa50872@gmail.com](mailto:jhaa50872@gmail.com)
+- **LinkedIn:** [Adarsh Jha](https://www.linkedin.com/in/adarsh-jha1/)
 
-🤖 AI Chat powered by Mistral/OpenAI
-
-🛠 Story & Post Templates
-
-📲 Push Notifications (coming soon)
-
-🔐 Auth system with full security
-
-🧾 Error Handling & Auto Retry
-
-💎 Paid Verification & Rewards System
-
-💰 Crypto/token-based incentives
-
-🎯 Ad-sponsored reward system
-
-🧩 Tech Stack
-
-Frontend: React, Next.js, Tailwind, Zustand/Redux
-
-Mobile: React Native (for cross-platform version)
-
-Backend: Express.js, MongoDB, Firebase, WebSockets
-
-DevOps: CI/CD, secure APIs, scalable architecture
-
-AI: Mistral AI, future full AI content generation
-
-🔭 Currently Working On
-
-Expanding the IGotMessage ecosystem
-
-Native-camera-powered story creation
-
-Ultra-smooth story viewer & chat experience
-
-Scaling backend for real-world user load
-
-## 🌱 Learning:
-- **graphql, react native**
-
-## 📫 How to Reach Me:
-- Email: [jhaa50872@gmail.com](mailto:jhaa50872@gmail.com)
-- LinkedIn: [Adarsh Jha](https://www.linkedin.com/in/adarsh-jha1/)
-
-Feel free to check out my repositories and collaborate on exciting projects! 🚀
-
+Always learning. Always building. Always getting better. 🚀
